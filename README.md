@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is the official implementation of ICCV 2025: **Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection**
+This repository is the official implementation of the paper: **"Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection"**
 ## News and ToDo List
 
 - [ ] Release checkpoints
